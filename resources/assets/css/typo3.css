@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+h1, h2, #single-parallx blockquote, .count_nums, .our-countdown .ds-element-value {
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-family: 'Open Sans';
+}
