@@ -223,12 +223,7 @@
                 <div class="col-md-10">
                     <div class="intro-text center">
                         <p class="darkcolor heading_space">
-                            Possuímos toda estrutura para tornar seu evento um sucesso: “Nossa busca pelos melhores
-                            recursos é intensa, com isso estruturamos um departamento de eventos na empresa, onde
-                            estamos aptos a cuidar da comunicação em palestras, reuniões, encontros, seminários,
-                            simpósios, congressos, eventos corporativos, prestando os serviços de Interpretação
-                            Simultânea ou Consecutiva e possuímos todos os Equipamentos necessários para tornar seu
-                            evento um sucesso!”
+                            @lang('general.service_event_text')
                         </p>
                         <p>
                             <a href="{{ route('contact') }}" class="button default">

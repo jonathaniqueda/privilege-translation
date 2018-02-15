@@ -78,31 +78,47 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-offset-2 col-md-8">
-                    <form class="getin_form">
+                    <form class="getin_form" method="POST" action="{{ route('contact') }}">
+                        {{ csrf_field() }}
                         <div class="row">
                             <div class="col-md-12 col-sm-12">
-                                <div class="form-group bottom45">
-                                    <input class="form-control" type="text" placeholder="@lang('general.contact_name')"
-                                           name="name"
-                                           required>
+                                <div class="form-group">
+                                    <label for="email">@lang('general.contact_name')</label>
+                                    <input class="form-control" type="text" name="name" id="name" required>
                                 </div>
+                                @if($errors->has('name'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('name') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="col-md-12 col-sm-12">
-                                <div class="form-group bottom45">
-                                    <input class="form-control" type="email" name="email"
-                                           placeholder="@lang('general.contact_email')" required>
+                                <div class="form-group">
+                                    <label for="email">@lang('general.contact_email')</label>
+                                    <input class="form-control" type="email" name="email" id="email" required>
                                 </div>
+                                @if($errors->has('email'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('email') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="col-md-12 col-sm-12">
-                                <div class="form-group bottom45">
-                                    <input class="form-control" type="tel" name="phone"
-                                           placeholder="@lang('general.contact_phone')" required>
+                                <div class="form-group">
+                                    <label for="phone">@lang('general.contact_phone')</label>
+                                    <input class="form-control phone_with_ddd" type="tel" name="phone" required
+                                           id="phone">
                                 </div>
+                                @if($errors->has('phone'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('phone') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="col-md-12 col-sm-12">
-                                <div class="form-group bottom45">
-                                    <select class="form-control" required name="service">
-                                        <option>@lang('general.contact_service')</option>
+                                <div class="form-group">
+                                    <label for="service">@lang('general.contact_service')</label>
+                                    <select class="form-control" id="service" name="service" required>
                                         <option value="@lang('general.service_second_sec_header_service1')">@lang('general.service_second_sec_header_service1')</option>
                                         <option value="@lang('general.service_second_sec_header_service2')">@lang('general.service_second_sec_header_service2')</option>
                                         <option value="@lang('general.service_second_sec_header_service3')">@lang('general.service_second_sec_header_service3')</option>
@@ -112,12 +128,22 @@
                                         <option value="@lang('general.service_second_sec_header_service7')">@lang('general.service_second_sec_header_service7')</option>
                                     </select>
                                 </div>
+                                @if($errors->has('service'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('service') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="col-md-12 col-sm-12">
-                                <div class="form-group bottom45">
-                                    <textarea class="form-control" name="msg"
-                                              placeholder="@lang('general.contact_msg')" required></textarea>
+                                <div class="form-group">
+                                    <label for="msg">@lang('general.contact_msg')</label>
+                                    <textarea class="form-control" name="msg" id="msg"></textarea>
                                 </div>
+                                @if($errors->has('msg'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('msg') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="col-sm-12 text-center">
                                 <button type="submit"
@@ -130,4 +156,15 @@
         </div>
     </section>
     <!--Contact form ends-->
+@endsection
+
+@section('scripts')
+    <script>
+      $('.phone_with_ddd').mask('(00) 00000-0000');
+    </script>
+    @if(!empty(session('status')))
+        <script>
+          alert("{{ session('status') }}");
+        </script>
+    @endif
 @endsection

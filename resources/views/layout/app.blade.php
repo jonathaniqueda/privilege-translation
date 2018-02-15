@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('css/default.css') }}">
     <link rel="stylesheet" href="{{ asset('css/typo3.css') }}">
+    @yield('styles')
     <link rel="icon" href="{{ asset('images/fav.png') }}">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -37,6 +38,9 @@
 
 <!--to view items on reach-->
 <script src="{{ asset('js/jquery.appear.js') }}"></script>
+
+<!--to mask inputs-->
+<script src="{{ asset('js/jquery.mask.min.js') }}"></script>
 
 <!--Swiper slider-->
 <script src="{{ asset('js/swiper.jquery.min.js') }}"></script>
@@ -98,6 +102,8 @@
 <!--Google map API-->
 <script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
 <script src="{{ asset('js/map.js') }}"></script>
+
+@yield('scripts')
 
 </body>
 </html>

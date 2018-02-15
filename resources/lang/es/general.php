@@ -1,111 +1,108 @@
 <?php
 
 return [
-    'home' => 'Home',
-    'about' => 'About',
-    'about_us' => 'About Us',
-    'mission' => 'Mission',
-    'vision' => 'Vision',
-    'services' => 'Services',
-    'simul_inter' => 'Interpretação Simultânea',
-    'simul_consec' => 'Interpretação Consecutiva',
-    'translate_tec' => 'Traduções Técnica',
-    'translate_jur' => 'Tradução Juramentada',
-    'apostil' => 'Apostilamento e Consularizações',
-    'website_translate' => 'Traduções de Websites',
-    'work_with_us' => 'Work With Us',
-    'contact' => 'Contact',
-    'header_slider_1' => '<h2 class="whitecolor">Transpor idéias, é o melhor termo para TRADUÇÃO.</h2>',
-    'header_slider_2' => '<h2 class="whitecolor">A qualidade nunca é um acidente,</h2> <h2 class="whitecolor">ela representa a melhor escolha</h2> <h2 class="whitecolor">de muitas alternativas.</h2>',
-    'header_slider_3' => '<h2 class="whitecolor">Somos referência, quando o assunto é tradução.</h2>',
-    'contact_us_cta' => 'Solicite um Orçamento',
-    'show_our_services' => 'Veja Nossos Serviços',
-    'show_about_us' => 'Conheça Nossa Empresa',
-    'made_by' => 'feito por ',
-    'get_in_touch' => 'Entre em Contato',
-    'big_get_in_touch' => 'ENTRE EM CONTATO CONOSCO E SOLICITE-NOS UM ORÇAMENTO',
+    'home' => 'Inicio',
+    'about' => 'Acerca',
+    'about_us' => 'Acerca De',
+    'mission' => 'Misión',
+    'vision' => 'Visión',
+    'services' => 'Servicios',
+    'simul_inter' => 'Interpretación Simultánea',
+    'simul_consec' => 'Interpretación Consecutiva',
+    'translate_tec' => 'Traducciones Técnicas',
+    'translate_jur' => 'Traducciones Juramentadas',
+    'apostil' => 'Creación de apostilla',
+    'website_translate' => 'Traducción de Websites',
+    'work_with_us' => 'Trabaja con nosotros',
+    'contact' => 'Contacto',
+    'header_slider_1' => '<h2 class="whitecolor">Transponer ideas, es el mejor término para TRADUCCIÓN</h2>',
+    'header_slider_2' => '<h2 class="whitecolor">La calidad nunca es un accidente,</h2> <h2 class="whitecolor">representa la mejor opción</h2> <h2 class="whitecolor">de muchas alternativas.</h2>',
+    'header_slider_3' => '<h2 class="whitecolor">Somos una referencia, cuando el asunto es traducción.</h2>',
+    'contact_us_cta' => 'Solicite un presupuesto',
+    'show_our_services' => 'Vea Nuestros Servicios',
+    'show_about_us' => 'Conozca Nuestra Empresa',
+    'made_by' => 'hecho por ',
+    'get_in_touch' => 'Entre en contacto',
+    'big_get_in_touch' => 'PÓNGASE EN CONTACTO CON NOSOTROS Y SOLICÍTENOS UN PRESUPUESTO',
 
     //home
-    'home_about' => 'qualidade acima de tudo',
-    'home_about_text' => 'Conheça a Privilège Translations',
-    'home_about_btn' => 'more about us',
-    'home_about_percentage1' => 'Traduções',
-    'home_about_percentage2' => 'Interpretações',
+    'home_about' => 'calidad por encima de todo',
+    'home_about_text' => 'Conozca Privilège Translations',
+    'home_about_btn' => 'más acerca de nosotros',
+    'home_about_percentage1' => 'Traducciones',
+    'home_about_percentage2' => 'Interpretaciones',
     'home_about_percentage3' => 'Eventos',
-    'home_services_text' => 'Somos focados e especializados em soluções para o mercado e eventos de
-                        traduções. Venha conhecer nossos serviços e tenha a certeza de que está escolhendo os
-                        melhores.',
-    'home_services_btn' => 'conheça nossos serviços',
+    'home_services_text' => 'Estamos enfocados y especializados en soluciones para el mercado y eventos de traducción. Venga a conocer nuestros servicios y asegúrese de que está eligiendo los mejores.',
+    'home_services_btn' => 'Conozca nuestros servicios',
 
     //about
-    'header_intro' => 'well thoughtout plans',
-    'about_first_sec' => 'História da empresa',
-    'about_first_sec_header' => 'Um novo conceito em tradução',
-    'about_first_sec_text' => 'A <strong>PRIVILÈGE TRANSLATIONS</strong>, surgiu com o propósito de intermediar a comunicação de pessoas
-                                e empresas com costumes e idiomas diferentes. Somos uma empresa inovadora e com uma
-                                visão diferenciada no mercado, no que diz respeito à consultoria lingüística. Estamos
-                                sempre atentos as modificações mercadológicas e buscamos sempre, os melhores e mais
-                                capacitados profissionais da área.',
-    'about_first_sec_vision' => '<strong>Visão:</strong> Nossa visão é a busca constante pelo reconhecimento global, entre as melhores
-                                empresas de comunicação e interpretação, amealhadas com a qualidade e preco justo.',
-    'about_first_sec_mission' => '<strong>Missão:</strong> Nossa missão é promover a comunicação de pessoas com idiomas e dialetos
-                                diferentes, a fim de assegurar uma excelente qualidade na mensagem transmitida e
-                                construir parcerias confiáveis e duradouras.',
-    'about_second_sec' => 'Elevando seu patamar',
-    'about_second_sec_header' => 'Diferencie-se',
-    'about_second_sec_text' => 'Solidez, são 15 anos de experiencia e uma equipe de tradutores e revisores brasileiros e
-                        estrangeiros, especializados em diversos segmentos.',
-    'about_second_sec_diff1_header' => 'Expertise',
-    'about_second_sec_diff2_header' => 'Confidencialidade',
-    'about_second_sec_diff3_header' => 'Efetividade',
-    'about_second_sec_diff1' => 'Nossa equipe de produção é especializada e com 100% de seu foco canalizado para qualidade, com isso, criamos diversos processos internos que garante a eficácia e o alto padrão dos documentos traduzidos.',
-    'about_second_sec_diff2' => 'Seus documentos são tratados de forma extremamente sigilosa, sua empresa fica segura, pois nós enviamos um atestado de confidencialidade. ',
-    'about_second_sec_diff3' => 'Nossa empresa nunca para! Nossa equipe fica à disposição 24 horas por dia, 7 dias por semana, sempre pronta para receber seu projeto. ',
+    'header_intro' => 'planes bien pensados',
+    'about_first_sec' => 'Historia de la empresa',
+    'about_first_sec_header' => 'Un nuevo concepto en traducción',
+    'about_first_sec_text' => 'La <strong>PRIVILÈGE TRANSLATIONS</strong>, surgió con el propósito de intermediar la comunicación de personas y empresas con costumbres e idiomas diferentes. Somos una empresa innovadora y con una visión diferenciada en el mercado, en lo que se refiere a la consultoría lingüística. Estamos siempre atentos a las modificaciones mercadológicas y buscamos siempre, los mejores y más capacitados profesionales del área.',
+    'about_first_sec_vision' => '<strong>Visión:</strong> Nuestra visión es la búsqueda constante por el reconocimiento global, entre las mejores empresas de comunicación e interpretación, combinadas con la calidad y precio justo.',
+    'about_first_sec_mission' => '<strong>Misión:</strong> Nuestra misión es promover la comunicación de personas con diferentes idiomas y dialectos, a fin de asegurar una excelente calidad en el mensaje transmitido y construir asociaciones fiables y duraderas.',
+    'about_second_sec' => 'Elevando su nivel',
+    'about_second_sec_header' => 'Diferenciarse',
+    'about_second_sec_text' => 'Solidez, son 15 años de experiencia y un equipo de traductores y revisores brasileños y extranjeros, especializados en diversos segmentos.',
+    'about_second_sec_diff1_header' => 'Especialización',
+    'about_second_sec_diff2_header' => 'Confidencialidad',
+    'about_second_sec_diff3_header' => 'Efectividad',
+    'about_second_sec_diff1' => 'Nuestro equipo de producción está especializado y con el 100% de su enfoque canalizado a la calidad, y con eso, creamos diversos procesos internos que garantizan la eficacia y el alto estándar de los documentos traducidos.',
+    'about_second_sec_diff2' => 'Sus documentos son tratados de forma extremadamente sigilosa, su empresa queda segura, pues enviamos un contrato de confidencialidad.',
+    'about_second_sec_diff3' => 'Nuestra empresa nunca para! Nuestro equipo está a su disposición las 24 horas al día, los 7 días de la semana, siempre lista para recibir su proyecto.',
 
     //services
-    'service_first_sec' => 'Services',
-    'service_first_sec_header' => 'Conheça tudo que iremos oferecer a você',
-    'service_first_sec_text' => 'A <strong>PRIVILÈGE TRANSLATIONS</strong>, possui uma gama de serviços especializados na tradução. Confira:
+    'service_first_sec' => 'Servicios',
+    'service_first_sec_header' => 'Conozca todo lo que ofreceremos a usted',
+    'service_first_sec_text' => 'LA <strong>PRIVILÈGE TRANSLATIONS</strong>, tiene una gama de servicios especializados en la traducción. salida:
                                     <ul>
-                                        <li>- Traduções Técnicas</li>
-                                        <li>- Traduções Juramentadas</li>
-                                        <li>- Interpretação Simultânea e Consecutiva</li>
-                                        <li>- Tradução de Websites</li>
-                                        <li>- Apostilamento</li>
+                                        <li>- Traducción Técnica</li>
+                                        <li>- Traducción Juramentada</li>
+                                        <li>- Interpretación simultánea y consecutiva</li>
+                                        <li>- Traducción de Websites</li>
+                                        <li>- Creación de apostilla</li>
                                     </ul>',
-    'service_first_sec_text2' => 'Além disso nós possuimos uma vasta experiência em serviços voltados para eventos.',
-    'service_second_sec_subtitle' => 'Tudo que você precisa sobre traduções.',
-    'service_second_sec_header' => 'Nossos Serviços',
-    'service_second_sec_header_service1' => 'Traduções Técnicas',
-    'service_second_sec_header_service2' => 'Traduções Juramentadas',
-    'service_second_sec_header_service3' => 'Interpretação Simultânea',
-    'service_second_sec_header_service4' => 'Interpretação Consecutiva',
-    'service_second_sec_header_service5' => 'Apostilamento e Consularizações',
-    'service_second_sec_header_service6' => 'Tradução de Websites',
-    'service_second_sec_header_service7' => 'Legalizacao de Documentos',
-    'service_second_sec_service1' => 'A tradução técnica, científica ou literária, é quando não se destina a procedimentos legais, não exige fé pública. Portanto, a intervenção de tradutor juramentado não é obrigatória. Apesar disso, empresas e pessoas que buscam esse tipo de serviço esperam um alto nível do texto traduzido.',
-    'service_second_sec_service2' => 'É a tradução com fé publica feita por um tradutor público, também chamado de tradutor juramentado . O Tradutor Público e Intérprete Comercial - nome correto do ofício é habilitado em um ou mais idiomas estrangeiros e português, é nomeado e matriculado na junta comercial do seu estado de residência após aprovação em concurso público.',
-    'service_second_sec_service3' => 'É o ato de traduzir oralmente, como o próprio nome já diz, ao mesmo tempo a fala de um orador para a língua de um ou mais ouvintes. Ela visa dar a pessoas que falam idiomas diferentes a possibilidade de participar, sem barreiras lingüísticas, de reuniões, debates, cursos, conferências etc. Essa comunicação só é possível por meio de intérpretes profissionais fluentes em seus idiomas de trabalho e treinados nas técnicas de tradução, interpretação e comunicação.',
-    'service_second_sec_service4' => 'É feita sem equipamentos e o orador deve interromper sua exposição para que o intérprete faça sua tradução, mediante a tomada de notas. Essa modalidade é mais indicada para pequenas reuniões formais, encontros entre autoridades ou cerimônias oficiais. Conteúdos mais técnicos ou programas muito prolongados adaptam-se muito melhor à modalidade simultânea.',
-    'service_second_sec_service5' => 'Nós oferecemos serviço de despachante documentalista, em parceria com cartórios, consulados e Itamaraty em todo Brasil, nós legalizamos suas documentações para serem apresentadas no exterior.',
-    'service_second_sec_service6' => 'Oferecemos traduções completas do seu website.',
-    'service_third_header' => 'Alta Experiência com Eventos',
+    'service_first_sec_text2' => 'Además, poseemos una amplia experiencia en servicios dirigidos a eventos.',
+    'service_second_sec_subtitle' => 'Todo lo que necesitas acerca de las traducciones.',
+    'service_second_sec_header' => 'Nuestros Servicios',
+    'service_second_sec_header_service1' => 'Traducción Técnica',
+    'service_second_sec_header_service2' => 'Traducción Juramentada',
+    'service_second_sec_header_service3' => 'Interpretación Simultánea',
+    'service_second_sec_header_service4' => 'Interpretación consecutiva',
+    'service_second_sec_header_service5' => 'Creación de apostilla',
+    'service_second_sec_header_service6' => 'TTraducción de Websites',
+    'service_second_sec_header_service7' => 'Legalización de Documentos',
+    'service_second_sec_service1' => 'La traducción técnica, científica o literaria, es cuando no se destina a procedimientos legales, no exige fe pública. Por lo tanto, la intervención del traductor juramentado no es obligatoria. A pesar de eso, empresas y personas que buscan ese tipo de servicio esperan un alto nivel del texto traducido.',
+    'service_second_sec_service2' => 'es la traducción con fe pública hecha por un traductor público, también llamado de traductor juramentado. El Traductor Público e Intérprete Comercial - nombre correcto de la profesión, está habilitado en una o más lenguas extranjeras y el portugués, es nombrado y matriculado en la junta comercial de su estado de residencia,  después de la aprobación en concurso público.',
+    'service_second_sec_service3' => 'Es el acto de traducir oralmente, como el propio nombre ya dice, al mismo tiempo el discurso de un orador para la lengua de uno o más oyentes. Se trata de dar a personas que hablan idiomas diferentes, la posibilidad de participar sin barreras lingüísticas, de reuniones, debates, cursos, conferencias, etc. Esta comunicación sólo es posible por medio de intérpretes profesionales fluidos en sus idiomas de trabajo y entrenados en las técnicas de traducción, interpretación y comunicación.',
+    'service_second_sec_service4' => 'Se realiza sin equipos y el orador debe interrumpir su exposición para que el intérprete haga su traducción, mediante la toma de notas. Esta modalidad es más indicada para pequeñas reuniones formales, encuentros entre autoridades o ceremonias oficiales. Los contenidos más técnicos o programas muy prolongados se adaptan mucho mejor a la modalidad simultánea.',
+    'service_second_sec_service5' => 'Ofrecemos servicio de despachante documentalista, en sociedad con oficinas de registro, consulados e Instituto Itamaraty en todo Brasil, legalizamos sus documentaciones para que sean presentadas en el exterior.',
+    'service_second_sec_service6' => 'Ofrecemos traducciones completas de su sitio web.',
+    'service_third_header' => 'Alta Experiencia con Eventos',
+    'service_event_text' => 'Possuímos toda estrutura para tornar seu evento um sucesso: “Nossa busca pelos melhores
+                            recursos é intensa, com isso estruturamos um departamento de eventos na empresa, onde
+                            estamos aptos a cuidar da comunicação em palestras, reuniões, encontros, seminários,
+                            simpósios, congressos, eventos corporativos, prestando os serviços de Interpretação
+                            Simultânea ou Consecutiva e possuímos todos os Equipamentos necessários para tornar seu
+                            evento um sucesso!”',
 
     //work with us
-    'work_with_us_first_sec' => 'Faça parte de nosso time!',
-    'work_with_us_first_sec_header' => 'Trabalhe conosco',
-    'work_with_us_first_sec_text' => 'Exporadicamente contratamos profissionais para compor nosso time.',
-    'work_with_us_first_sec_text2' => 'Mande-nos seu curriculo para: <strong><a href="mailto:comercial@privilege-ts.com.br?Subject=Trabalhe%20Com%20a%20Privilège%20Translations" target="_top">comercial@privilege-ts.com.br</a></strong>',
+    'work_with_us_first_sec' => 'Únete a nuestro equipo!',
+    'work_with_us_first_sec_header' => 'Trabaje con nosotros',
+    'work_with_us_first_sec_text' => 'Contratamos esporádicamente, profesionales para componer nuestro equipo.',
+    'work_with_us_first_sec_text2' => 'Envíenos su currículum a: <strong><a href="mailto:comercial@privilege-ts.com.br?Subject=Trabalhe%20Com%20a%20Privilège%20Translations" target="_top">comercial@privilege-ts.com.br</a></strong>',
 
     //contact
-    'contact_first_sec_header' => 'Get in Touch',
-    'contact_phones' => 'Telefones',
-    'contact_zipcode' => 'CEP',
-    'contact_address' => 'Endereço',
-    'contact_name' => 'your name',
-    'contact_email' => 'your best email',
-    'contact_phone' => 'your phone',
-    'contact_service' => 'selecione o serviço que deseja',
-    'contact_msg' => 'a brief message',
-    'contact_send_request' => 'submit request',
+    'contact_first_sec_header' => 'Póngase en contacto',
+    'contact_phones' => 'Móviles',
+    'contact_zipcode' => 'Código postal',
+    'contact_address' => 'Dirección',
+    'contact_name' => 'Su nombre',
+    'contact_email' => 'Su e-mail',
+    'contact_phone' => 'Su teléfono',
+    'contact_service' => 'seleccione el servicio que desea',
+    'contact_msg' => 'Sus consideraciones',
+    'contact_send_request' => 'soumettre une demande',
+    'contact_success' => 'Mensaje enviado correctamente!',
 ];

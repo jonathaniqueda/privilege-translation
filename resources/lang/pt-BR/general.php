@@ -1,20 +1,20 @@
 <?php
 
 return [
-    'home' => 'Home',
-    'about' => 'About',
-    'about_us' => 'About Us',
-    'mission' => 'Mission',
-    'vision' => 'Vision',
-    'services' => 'Services',
+    'home' => 'Início',
+    'about' => 'Sobre',
+    'about_us' => 'Sobre Nós',
+    'mission' => 'Missão',
+    'vision' => 'Visão',
+    'services' => 'Serviços',
     'simul_inter' => 'Interpretação Simultânea',
     'simul_consec' => 'Interpretação Consecutiva',
     'translate_tec' => 'Traduções Técnica',
     'translate_jur' => 'Tradução Juramentada',
     'apostil' => 'Apostilamento e Consularizações',
     'website_translate' => 'Traduções de Websites',
-    'work_with_us' => 'Work With Us',
-    'contact' => 'Contact',
+    'work_with_us' => 'Trabalhe Conosco',
+    'contact' => 'Contato',
     'header_slider_1' => '<h2 class="whitecolor">Transpor idéias, é o melhor termo para TRADUÇÃO.</h2>',
     'header_slider_2' => '<h2 class="whitecolor">A qualidade nunca é um acidente,</h2> <h2 class="whitecolor">ela representa a melhor escolha</h2> <h2 class="whitecolor">de muitas alternativas.</h2>',
     'header_slider_3' => '<h2 class="whitecolor">Somos referência, quando o assunto é tradução.</h2>',
@@ -28,7 +28,7 @@ return [
     //home
     'home_about' => 'qualidade acima de tudo',
     'home_about_text' => 'Conheça a Privilège Translations',
-    'home_about_btn' => 'more about us',
+    'home_about_btn' => 'mais sobre nós',
     'home_about_percentage1' => 'Traduções',
     'home_about_percentage2' => 'Interpretações',
     'home_about_percentage3' => 'Eventos',
@@ -38,7 +38,7 @@ return [
     'home_services_btn' => 'conheça nossos serviços',
 
     //about
-    'header_intro' => 'well thoughtout plans',
+    'header_intro' => 'planos bem pensados',
     'about_first_sec' => 'História da empresa',
     'about_first_sec_header' => 'Um novo conceito em tradução',
     'about_first_sec_text' => 'A <strong>PRIVILÈGE TRANSLATIONS</strong>, surgiu com o propósito de intermediar a comunicação de pessoas
@@ -63,7 +63,7 @@ return [
     'about_second_sec_diff3' => 'Nossa empresa nunca para! Nossa equipe fica à disposição 24 horas por dia, 7 dias por semana, sempre pronta para receber seu projeto. ',
 
     //services
-    'service_first_sec' => 'Services',
+    'service_first_sec' => 'Serviços',
     'service_first_sec_header' => 'Conheça tudo que iremos oferecer a você',
     'service_first_sec_text' => 'A <strong>PRIVILÈGE TRANSLATIONS</strong>, possui uma gama de serviços especializados na tradução. Confira:
                                     <ul>
@@ -98,14 +98,15 @@ return [
     'work_with_us_first_sec_text2' => 'Mande-nos seu curriculo para: <strong><a href="mailto:comercial@privilege-ts.com.br?Subject=Trabalhe%20Com%20a%20Privilège%20Translations" target="_top">comercial@privilege-ts.com.br</a></strong>',
 
     //contact
-    'contact_first_sec_header' => 'Get in Touch',
+    'contact_first_sec_header' => 'Entre em Contato',
     'contact_phones' => 'Telefones',
     'contact_zipcode' => 'CEP',
     'contact_address' => 'Endereço',
-    'contact_name' => 'your name',
-    'contact_email' => 'your best email',
-    'contact_phone' => 'your phone',
+    'contact_name' => 'seu nome',
+    'contact_email' => 'seu melhor e-mail',
+    'contact_phone' => 'seu celular',
     'contact_service' => 'selecione o serviço que deseja',
-    'contact_msg' => 'a brief message',
-    'contact_send_request' => 'submit request',
+    'contact_msg' => 'suas considerações',
+    'contact_send_request' => 'enviar solicitação',
+    'contact_success' => 'Mensagem enviada com sucesso!',
 ];
