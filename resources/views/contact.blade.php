@@ -21,7 +21,7 @@
     <!--Page header ends-->
 
     <div style="background-image: url('{{asset('images/background-contact.jpeg')}}'); background-repeat: no-repeat;
-            background-size: 100% 100%;">
+            background-size: cover;">
         <!--Map + Address 01-->
         <section id="map-address" class="padding_top contactwith" style="background: none;">
             <div class="container">
