@@ -13,7 +13,6 @@
                                 <span class="icon-bar bottom-bar"></span>
                             </button>
                             <a class="navbar-brand" href="{{ route('index') }}">
-                                {{--<img src="images/logo_priv.png" alt="logo">--}}
                                 <img src="images/logo_priv_small_2.png" alt="logo">
                             </a>
                         </div>

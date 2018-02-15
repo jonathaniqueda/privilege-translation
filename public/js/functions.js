@@ -74,7 +74,7 @@ jQuery(function ($) {
     $(".navbar .dropdown").on('click', function () {
       if ($(window).width() < 990) {
         $(this).next('.dropdown-menu').show();
-        $(this).next.toggleClass('open');
+        // $(this).next.toggleClass('open');
       }
     });
 

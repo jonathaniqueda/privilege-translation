@@ -297,7 +297,7 @@ ul.social.white li a:focus{
   background: transparent !important;
 }
 .navbar-toggle .icon-bar {
-  background-color:#fff !important;
+  background-color:#fff;
 }
 #navigation.fixed .navbar-toggle .icon-bar{
     background-color: #414141 !important;

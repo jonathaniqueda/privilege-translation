@@ -390,11 +390,11 @@ ul.social.dark li a:focus{
   background: transparent !important;
 }
 .navbar-toggle .icon-bar {
-  background-color:#fff !important;
+  background-color:#fff;
 }
-.boxednav#navigation.fixed .navbar-toggle .icon-bar{
-   background-color:#fff !important;
-}
+/*.boxednav#navigation.fixed .navbar-toggle .icon-bar{*/
+   /*background-color:#fff !important;*/
+/*}*/
 #navigation.lighttransparent .navbar-toggle .icon-bar,
 #navigation.lightheader .navbar-toggle .icon-bar,
 #navigation.fixed .navbar-toggle .icon-bar,

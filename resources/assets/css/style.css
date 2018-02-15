@@ -874,6 +874,13 @@ ul.social li a::before, ul.social li a::after {
     margin-top: 15px;
 }
 
+@media screen and (max-width: 767px) {
+    .boxednav .navbar-default {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+}
+
 #navigation.fixed {
     background-color: #fff;
     position: fixed;
@@ -1266,12 +1273,12 @@ ul.social li a::before, ul.social li a::after {
     -webkit-transition: all 0.2s;
     -o-transition: all 0.2s;
     transition: all 0.2s;
-    background-color: #fff !important;
+    background-color: #fff;
 }
 
-.boxednav#navigation.fixed .navbar-toggle .icon-bar {
-    background-color: #fff !important;
-}
+/*.boxednav#navigation.fixed .navbar-toggle .icon-bar {*/
+/*background-color: #fff !important;*/
+/*}*/
 
 #navigation.lighttransparent .navbar-toggle .icon-bar,
 #navigation.lightheader .navbar-toggle .icon-bar,
@@ -6339,4 +6346,10 @@ footer p {
 
 .h2-service {
     font-size: 2rem;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #fff !important;
+    }
 }
