@@ -35,12 +35,19 @@ jQuery(function ($) {
   $window.scroll(function () {
     var $scroll = $window.scrollTop();
     var $navbar = $("#navigation");
+    var stranger = $(".stranger-nav");
     if ($scroll > 50) {
       $navbar.addClass("fixed");
-      $(".navbar-nav li a").removeClass("nav-white");
+
+      if (stranger.length < 1) {
+        $(".navbar-nav li a").removeClass("nav-white");
+      }
     } else {
       $navbar.removeClass("fixed");
-      $(".navbar-nav li a").addClass("nav-white");
+
+      if (stranger.length < 1) {
+        $(".navbar-nav li a").addClass("nav-white");
+      }
     }
   });
 

@@ -1,6 +1,6 @@
 <!-- Main-Navigation -->
 <header id="main-navigation">
-    <div id="navigation" class="boxednav">
+    <div id="navigation" class="boxednav @if(request()->route()->getName() !== 'index') stranger-nav @endif">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
