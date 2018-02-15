@@ -81,12 +81,7 @@ return [
     'service_second_sec_service5' => 'Ofrecemos servicio de despachante documentalista, en sociedad con oficinas de registro, consulados e Instituto Itamaraty en todo Brasil, legalizamos sus documentaciones para que sean presentadas en el exterior.',
     'service_second_sec_service6' => 'Ofrecemos traducciones completas de su sitio web.',
     'service_third_header' => 'Alta Experiencia con Eventos',
-    'service_event_text' => 'Possuímos toda estrutura para tornar seu evento um sucesso: “Nossa busca pelos melhores
-                            recursos é intensa, com isso estruturamos um departamento de eventos na empresa, onde
-                            estamos aptos a cuidar da comunicação em palestras, reuniões, encontros, seminários,
-                            simpósios, congressos, eventos corporativos, prestando os serviços de Interpretação
-                            Simultânea ou Consecutiva e possuímos todos os Equipamentos necessários para tornar seu
-                            evento um sucesso!”',
+    'service_event_text' => 'Poseemos toda estructura para hacer su evento un éxito: "Nuestra búsqueda por los mejores recursos es intensa, y debido a eso, estructuramos un departamento de eventos en la empresa, donde estamos aptos para cuidar de la comunicación en charlas, reuniones, encuentros, seminarios, simposios, congresos, eventos corporativos, prestando los servicios de Interpretación Simultánea o Consecutiva y poseemos todos los Equipos necesarios para hacer su evento un éxito! "',
 
     //work with us
     'work_with_us_first_sec' => 'Únete a nuestro equipo!',

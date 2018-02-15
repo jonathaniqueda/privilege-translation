@@ -63,10 +63,15 @@
                                         @endif
                                     </ul>
                                 </li>
-                                <li><a href="{{ route('index') }}">@lang('general.home')</a></li>
-                                <li><a href="{{ route('about') }}">@lang('general.about')</a></li>
+                                <li><a href="{{ route('index') }}"
+                                       class="@if(request()->route()->getName() === 'index') nav-white @endif">@lang('general.home')</a>
+                                </li>
+                                <li><a href="{{ route('about') }}"
+                                       class="@if(request()->route()->getName() === 'index') nav-white @endif">@lang('general.about')</a>
+                                </li>
                                 <li class="dropdown">
-                                    <a href="javascript:void(0)" class="dropdown-toggle remove-cursor"
+                                    <a href="javascript:void(0)"
+                                       class="dropdown-toggle remove-cursor @if(request()->route()->getName() === 'index') nav-white @endif"
                                        data-toggle="dropdown">@lang('general.services')</a>
                                     <ul class="dropdown-menu">
                                         </li>
@@ -89,8 +94,12 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="{{ route('work_with_us') }}">@lang('general.work_with_us')</a></li>
-                                <li><a href="{{ route('contact') }}">@lang('general.contact')</a></li>
+                                <li><a href="{{ route('work_with_us') }}"
+                                       class="@if(request()->route()->getName() === 'index') nav-white @endif">@lang('general.work_with_us')</a>
+                                </li>
+                                <li><a href="{{ route('contact') }}"
+                                       class="@if(request()->route()->getName() === 'index') nav-white @endif">@lang('general.contact')</a>
+                                </li>
                             </ul>
                         </div>
                     </nav>

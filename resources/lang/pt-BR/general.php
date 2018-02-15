@@ -91,6 +91,12 @@ return [
     'service_second_sec_service5' => 'Nós oferecemos serviço de despachante documentalista, em parceria com cartórios, consulados e Itamaraty em todo Brasil, nós legalizamos suas documentações para serem apresentadas no exterior.',
     'service_second_sec_service6' => 'Oferecemos traduções completas do seu website.',
     'service_third_header' => 'Alta Experiência com Eventos',
+    'service_event_text' => 'Possuímos toda estrutura para tornar seu evento um sucesso: “Nossa busca pelos melhores
+                            recursos é intensa, com isso estruturamos um departamento de eventos na empresa, onde
+                            estamos aptos a cuidar da comunicação em palestras, reuniões, encontros, seminários,
+                            simpósios, congressos, eventos corporativos, prestando os serviços de Interpretação
+                            Simultânea ou Consecutiva e possuímos todos os Equipamentos necessários para tornar seu
+                            evento um sucesso!”',
 
     //work with us
     'work_with_us_first_sec' => 'Faça parte de nosso time!',

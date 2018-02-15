@@ -875,7 +875,7 @@ ul.social li a::before, ul.social li a::after {
 }
 
 .navbar-white {
-    background: #fff!important;
+    background: #fff !important;
 }
 
 @media screen and (max-width: 767px) {
@@ -6359,5 +6359,9 @@ footer p {
 }
 
 .ul.social_simple li a, ul.social li a {
+    color: #fff !important;
+}
+
+.nav-white {
     color: #fff !important;
 }

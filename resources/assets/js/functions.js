@@ -37,8 +37,10 @@ jQuery(function ($) {
     var $navbar = $("#navigation");
     if ($scroll > 50) {
       $navbar.addClass("fixed");
+      $(".navbar-nav li a").removeClass("nav-white");
     } else {
       $navbar.removeClass("fixed");
+      $(".navbar-nav li a").addClass("nav-white");
     }
   });
 
