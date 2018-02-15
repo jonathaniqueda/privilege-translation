@@ -869,9 +869,13 @@ ul.social li a::before, ul.social li a::after {
 }
 
 .boxednav .navbar-default {
-    background: #fff;
+    /*background: #fff;*/
     padding: 0 15px;
     margin-top: 15px;
+}
+
+.navbar-white {
+    background: #fff!important;
 }
 
 @media screen and (max-width: 767px) {
@@ -4583,7 +4587,7 @@ ul.pagination li.active a:focus {
 }
 
 .address-bg {
-    background: #fff;
+    background: #953044;
     max-width: 570px;
     padding: 3.5rem 1rem 3.5rem 3.5rem;
     position: relative;
@@ -6352,4 +6356,8 @@ footer p {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
         color: #fff !important;
     }
+}
+
+.ul.social_simple li a, ul.social li a {
+    color: #fff !important;
 }

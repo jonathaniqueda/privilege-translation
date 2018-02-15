@@ -16,7 +16,12 @@
                     </li>
                 </ul>
                 <p class="whitecolor top30">Copyright &copy; {{ date('Y') }} Privilege Translations.</p>
-                <p class="whitecolor made-by">
+                <p class="whitecolor top30">
+                    Rua da Conceicao, 125 sala 906 <br/>
+                    Niterói – RJ CEP: 24020.085 <br/>
+                    Telefones: 2717-0801 / 9-6493-4783
+                </p>
+                <p class="whitecolor top30 made-by">
                     @lang('general.made_by') <a href="https://seuguru.digital/" target="_blank">seuguru.digital</a>.
                 </p>
             </div>

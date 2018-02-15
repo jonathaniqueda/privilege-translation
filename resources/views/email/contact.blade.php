@@ -9,13 +9,13 @@
 </head>
 <body>
 <div>
-    <p>Olá Comercial Privilège Translation,</p>
+    <p>Olá Comercial Privilège Translations,</p>
     <p>O {{ $data['name'] }} enviou uma mensagem de contato.</p>
     <p><strong>E-mail:</strong> {{ $data['email'] }}</p>
     <p><strong>Telefone:</strong> {{ $data['phone'] }}</p>
     <p><strong>Serviço solicitado:</strong> {{ $data['service'] }}</p>
     <p><strong>Mensagem:</strong> {{ $data['msg'] }}</p>
-    <p>Att, Site Privilège Translation.</p>
+    <p>Att, Site Privilège Translations.</p>
 </div>
 </body>
 </html>

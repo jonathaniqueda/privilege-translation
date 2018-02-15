@@ -18,6 +18,7 @@ return [
     'header_slider_1' => '<h2 class="whitecolor">Transpor idéias, é o melhor termo para TRADUÇÃO.</h2>',
     'header_slider_2' => '<h2 class="whitecolor">A qualidade nunca é um acidente,</h2> <h2 class="whitecolor">ela representa a melhor escolha</h2> <h2 class="whitecolor">de muitas alternativas.</h2>',
     'header_slider_3' => '<h2 class="whitecolor">Somos referência, quando o assunto é tradução.</h2>',
+    'header_slider_4' => '<h2 class="whitecolor">Nossa empresa nunca para!</h2>  <h2 class="whitecolor">Nossa equipe fica à disposição</h2> <h2 class="whitecolor">24 horas por dia, 7 dias por semana,</h2> <h2 class="whitecolor">sempre pronta para receber seu projeto.</h2>',
     'contact_us_cta' => 'Solicite um Orçamento',
     'show_our_services' => 'Veja Nossos Serviços',
     'show_about_us' => 'Conheça Nossa Empresa',
@@ -38,7 +39,7 @@ return [
     'home_services_btn' => 'conheça nossos serviços',
 
     //about
-    'header_intro' => 'planos bem pensados',
+    'header_intro' => 'somos referencia quando o assunto é tradução',
     'about_first_sec' => 'História da empresa',
     'about_first_sec_header' => 'Um novo conceito em tradução',
     'about_first_sec_text' => 'A <strong>PRIVILÈGE TRANSLATIONS</strong>, surgiu com o propósito de intermediar a comunicação de pessoas
@@ -59,8 +60,8 @@ return [
     'about_second_sec_diff2_header' => 'Confidencialidade',
     'about_second_sec_diff3_header' => 'Efetividade',
     'about_second_sec_diff1' => 'Nossa equipe de produção é especializada e com 100% de seu foco canalizado para qualidade, com isso, criamos diversos processos internos que garante a eficácia e o alto padrão dos documentos traduzidos.',
-    'about_second_sec_diff2' => 'Seus documentos são tratados de forma extremamente sigilosa, sua empresa fica segura, pois nós enviamos um atestado de confidencialidade. ',
-    'about_second_sec_diff3' => 'Nossa empresa nunca para! Nossa equipe fica à disposição 24 horas por dia, 7 dias por semana, sempre pronta para receber seu projeto. ',
+    'about_second_sec_diff2' => 'Seus documentos são tratados de forma extremamente sigilosa, sua empresa fica segura, pois nós enviamos um atestado de confidencialidade.',
+    'about_second_sec_diff3' => 'Nossa empresa nunca para! Nossa equipe fica à disposição 24 horas por dia, 7 dias por semana, sempre pronta para receber seu projeto.',
 
     //services
     'service_first_sec' => 'Serviços',

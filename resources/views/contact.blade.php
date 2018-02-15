@@ -2,7 +2,7 @@
 
 @section('content')
     <!--Page header-->
-    <section id="page-banner" class="padding_top parallaxie">
+    <section id="page-banner" class="padding_top">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
@@ -44,19 +44,21 @@
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <h6 class="darkcolor bottom30">Privilège Translation</h6>
-                                        <p>
+                                        <h6 class="whitecolor bottom30">Privilège Translations</h6>
+                                        <p class="whitecolor">
                                             @lang('general.contact_address'): Rua da Conceição, 125 sala 906 – Niterói –
                                             RJ
                                         </p>
-                                        <p>@lang('general.contact_zipcode'): 24020.085</p>
-                                        <p>@lang('general.contact_phones'): +(55 21) 2717-0801 / 9-6493-4783</p>
-                                        <p>
+                                        <p class="whitecolor">@lang('general.contact_zipcode'): 24020.085</p>
+                                        <p class="whitecolor">@lang('general.contact_phones'): +(55 21) 2717-0801 /
+                                            9-6493-4783</p>
+                                        <p class="whitecolor">
                                             <a href="mailto:comercial@privilege-ts.com.br">comercial@privilege-ts.com.br</a>
                                         </p>
                                         <ul class="social top50">
                                             <li>
-                                                <a href="https://facebook.com/pages/Privilège-Translations/102967433378705"><i
+                                                <a class="whitecolor"
+                                                   href="https://facebook.com/pages/Privilège-Translations/102967433378705"><i
                                                             class="fa fa-facebook"></i> </a></li>
                                             <li><a href="https://www.linkedin.com/in/privilege-translations-0976a9122/"><i
                                                             class="fa fa-linkedin"></i> </a></li>

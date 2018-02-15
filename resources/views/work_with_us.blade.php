@@ -1,7 +1,7 @@
 @extends('layout.app')
 
 @section('content')
-    <section id="page-banner" class="padding_top parallaxie">
+    <section id="page-banner" class="padding_top">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
@@ -31,9 +31,13 @@
                             <h2 class="darkcolor bottom45">@lang('general.work_with_us_first_sec_header')</h2>
 
                             <h3 class="bottom20">
+                                <img src="{{ asset('images/people_shaking_hands.jpg') }}">
+                            </h3>
+
+                            <h3 class="bottom20 text-center">
                                 @lang('general.work_with_us_first_sec_text')
                             </h3>
-                            <h3>
+                            <h3 class="text-center">
                                 @lang('general.work_with_us_first_sec_text2')
                             </h3>
                         </div>

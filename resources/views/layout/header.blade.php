@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <nav class="navbar navbar-default">
+                    <nav class="navbar navbar-default @if(request()->route()->getName() !== 'index') navbar-white @endif">
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
                                     data-target="#fixed-collapse-navbar" aria-expanded="true">
@@ -206,6 +206,39 @@
                          data-splitin="none" data-splitout="none" data-responsive_offset="on">
                         <a href="{{ route('about') }}" class="button default scroll">
                             @lang('general.show_about_us')
+                        </a>
+                    </div>
+                </li>
+                <!-- SLIDE 4  -->
+                <li data-index="rs-20" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut"
+                    data-easeout="Power3.easeInOut" data-masterspeed="1500" class="text-right">
+                    <!-- MAIN IMAGE -->
+                    <img src="images/slide4.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                         data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-80','-80','-80','-80']"
+                         data-whitespace="nowrap" data-responsive_offset="on"
+                         data-width="['none','none','none','360']" data-type="text"
+                         data-textalign="['center','center','center','center']"
+                         data-transform_idle="o:1;"
+                         data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
+                         data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                         data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none"
+                         data-splitout="none">
+                        @lang('general.header_slider_4')
+                    </div>
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']"
+                         data-whitespace="nowrap" data-transform_idle="o:1;"
+                         data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;"
+                         data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="2000"
+                         data-splitin="none" data-splitout="none" data-responsive_offset="on">
+                        <a href="{{ route('contact') }}" class="button default scroll">
+                            @lang('general.contact_us_cta')
                         </a>
                     </div>
                 </li>

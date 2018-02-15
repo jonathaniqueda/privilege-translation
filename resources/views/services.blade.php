@@ -1,7 +1,7 @@
 @extends('layout.app')
 
 @section('content')
-    <section id="page-banner" class="padding_top parallaxie">
+    <section id="page-banner" class="padding_top">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">

@@ -18,6 +18,7 @@ return [
     'header_slider_1' => '<h2 class="whitecolor">Transponer ideas, es el mejor término para TRADUCCIÓN</h2>',
     'header_slider_2' => '<h2 class="whitecolor">La calidad nunca es un accidente,</h2> <h2 class="whitecolor">representa la mejor opción</h2> <h2 class="whitecolor">de muchas alternativas.</h2>',
     'header_slider_3' => '<h2 class="whitecolor">Somos una referencia, cuando el asunto es traducción.</h2>',
+    'header_slider_4' => '<h2 class="whitecolor">Nuestra empresa nunca para!</h2>  <h2 class="whitecolor">Nuestro equipo está a su disposición las</h2> <h2 class="whitecolor">24 horas al día, los 7 días de la semana,</h2> <h2 class="whitecolor"> siempre lista para recibir su proyecto.</h2>',
     'contact_us_cta' => 'Solicite un presupuesto',
     'show_our_services' => 'Vea Nuestros Servicios',
     'show_about_us' => 'Conozca Nuestra Empresa',
@@ -36,7 +37,7 @@ return [
     'home_services_btn' => 'Conozca nuestros servicios',
 
     //about
-    'header_intro' => 'planes bien pensados',
+    'header_intro' => 'se refiere cuando el asunto es traducción',
     'about_first_sec' => 'Historia de la empresa',
     'about_first_sec_header' => 'Un nuevo concepto en traducción',
     'about_first_sec_text' => 'La <strong>PRIVILÈGE TRANSLATIONS</strong>, surgió con el propósito de intermediar la comunicación de personas y empresas con costumbres e idiomas diferentes. Somos una empresa innovadora y con una visión diferenciada en el mercado, en lo que se refiere a la consultoría lingüística. Estamos siempre atentos a las modificaciones mercadológicas y buscamos siempre, los mejores y más capacitados profesionales del área.',

@@ -15,9 +15,10 @@ return [
     'website_translate' => "Traduction des sites dell'Internet",
     'work_with_us' => 'Travaille avec nous',
     'contact' => 'Contact',
-    'header_slider_1' => '<h2 class="whitecolor">Transposer des idées, c\'est le meilleur terme pour la TRADUCTION.</h2>',
+    'header_slider_1' => '<h2 class="whitecolor">Transposer des idées, c\'est le meilleur</h2> <h2 class="whitecolor">terme pour la TRADUCTION.</h2>',
     'header_slider_2' => '<h2 class="whitecolor">La qualité n\'est jamais un accident,</h2> <h2 class="whitecolor">elle représente le meilleur choix</h2> <h2 class="whitecolor">de nombreuses alternatives.</h2>',
     'header_slider_3' => '<h2 class="whitecolor">Nous sommes une référence, quand le sujet est la traduction.</h2>',
+    'header_slider_4' => '<h2 class="whitecolor">Notre compagnie ne s\'arrête jamais!</h2>  <h2 class="whitecolor">Notre équipe est disponible</h2> <h2 class="whitecolor">24 heures par jour, 7 jours par semaine,</h2> <h2 class="whitecolor">toujours prête à recevoir votre projet.</h2>',
     'contact_us_cta' => 'Demander un devis',
     'show_our_services' => 'Voir nos services',
     'show_about_us' => 'Rencontrez notre compagnie',
@@ -36,7 +37,7 @@ return [
     'home_services_btn' => 'En savoir plus sur nos services',
 
     //about
-    'header_intro' => 'plans bien pensés',
+    'header_intro' => 'nous sommes référence lorsque le sujet est la traduction',
     'about_first_sec' => 'Histoire de l\'entreprise',
     'about_first_sec_header' => 'Un nouveau concept de traduction',
     'about_first_sec_text' => "L\'entreprise <strong>PRIVILÈGE TRANSLATIONS</strong>, a été crée avec le but de faciliter la communication entre les personnes et les entreprises avec des coutumes et des langues différentes. Nous sommes une entreprise innovante avec une vision différenciée sur le marché, en matière de conseil linguistique. Nous sommes toujours attentifs aux changements du marché et recherchons toujours les meilleurs professionnels et les plus qualifiés de la région.",
