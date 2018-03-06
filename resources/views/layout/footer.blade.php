@@ -5,8 +5,13 @@
             <div class="col-md-12 col-sm-12 text-center">
                 <ul class="social white">
                     <li>
-                        <a href="https://facebook.com/pages/Privilège-Translations/102967433378705" target="_blank">
+                        <a href="https://www.facebook.com/privilege.translations.7" target="_blank">
                             <i class="fa fa-facebook"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/privilegetranslations/" target="_blank">
+                            <i class="fa fa-instagram"></i>
                         </a>
                     </li>
                     <li>
