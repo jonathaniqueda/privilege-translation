@@ -3,7 +3,7 @@ if($("#map-dark").length){
     var mapOptions = {
         zoom: 18,
         scrollwheel: false,
-        center: new google.maps.LatLng(51.511522, -0.09304),
+        center: new google.maps.LatLng(-22.893425, -43.121137),
         zoomControl: true,
           zoomControlOptions: {
             position: google.maps.ControlPosition.LEFT_CENTER

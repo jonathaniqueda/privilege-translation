@@ -22,8 +22,9 @@
                 </ul>
                 <p class="whitecolor top30">Copyright &copy; {{ date('Y') }} Privilege Translations.</p>
                 <p class="whitecolor top30">
-                    Rua da Conceicao, 125 sala 906 <br/>
-                    Niterói – RJ CEP: 24020.085 <br/>
+                    Avenida Ernani do Amaral Peixoto, 207 - sala 1301<br/>
+                    Niterói - Rio de Janeiro<br/>
+                    Edifício Albert Sabin<br/>
                     Telefones: 2717-0801 / 9-6493-4783
                 </p>
                 <p class="whitecolor top30 made-by">
