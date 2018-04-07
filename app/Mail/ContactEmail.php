@@ -31,7 +31,8 @@ class ContactEmail extends Mailable
     public function build()
     {
         return $this->subject('[Privilège Translation] Nova mensagem de contato')
-            ->to('comercial@privilege-ts.com.br', 'Contato Privilège')
+//            ->to('comercial@privilege-ts.com.br', 'Contato Privilège')
+            ->to('japaxiqueda@gmail.com', 'Contato Privilège')
             ->from($this->data['email'], $this->data['name'])
             ->view('email.contact', ['data' => $this->data]);
     }
