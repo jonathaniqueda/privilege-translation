@@ -46,9 +46,10 @@
                                 <div class="swiper-container">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <h6 class="whitecolor bottom30">Privilège Translations</h6>
+                                            <h6 class="whitecolor bottom30">Privilège Translations - Brasil</h6>
                                             <p class="whitecolor">
-                                                @lang('general.contact_address'): Avenida Ernani do Amaral Peixoto, 207 - sala 1301 –
+                                                @lang('general.contact_address'): Avenida Ernani do Amaral Peixoto, 207
+                                                - sala 1301 –
                                                 Niterói - Rio de Janeiro - RJ<br/>
                                                 Edifício Albert Sabin
                                             </p>
@@ -56,29 +57,18 @@
                                             <p class="whitecolor">@lang('general.contact_phones'): +(55 21) 2717-0801 /
                                                 9-6493-4783</p>
                                             <p class="whitecolor">
-                                                <a href="mailto:comercial@privilege-ts.com.br">comercial@privilege-ts.com.br</a>
+                                                <a href="mailto:comercial@privilege-ts.com.br">E-mail:
+                                                    comercial@privilege-ts.com.br</a>
                                             </p>
-                                            <ul class="social top50">
-                                                <li>
-                                                    <a class="whitecolor"
-                                                       href="https://facebook.com/pages/Privilège-Translations/102967433378705"><i
-                                                                class="fa fa-facebook"></i> </a></li>
-                                                <li>
-                                                    <a href="https://www.linkedin.com/in/privilege-translations-0976a9122/"><i
-                                                                class="fa fa-linkedin"></i> </a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="swiper-slide">
+                                            <hr/>
                                             <h6 class="whitecolor bottom30">Privilège Translations - Madrid</h6>
                                             <p class="whitecolor">
                                                 @lang('general.contact_address'): Calle General Martínez Campos - 44,
                                                 28010 Madrid, Espanha
                                             </p>
-                                            {{--<p class="whitecolor">@lang('general.contact_zipcode'): 24020.085</p>--}}
-                                            {{--<p class="whitecolor">@lang('general.contact_phones'): +(55 21) 2717-0801 /--}}
-                                            {{--9-6493-4783</p>--}}
                                             <p class="whitecolor">
-                                                <a href="mailto:comercial@privilege-ts.com.br">comercial@privilege-ts.com.br</a>
+                                                <a href="mailto:comercial@privilege-ts.com.br">E-mail:
+                                                    comercial@privilege-ts.com.br</a>
                                             </p>
                                             <ul class="social top50">
                                                 <li>
