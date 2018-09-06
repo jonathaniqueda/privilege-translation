@@ -46,7 +46,18 @@
                                 <div class="swiper-container">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <h6 class="whitecolor bottom30">Privilège Translations - Brasil</h6>
+                                            <h6 class="whitecolor bottom30">Privilège Translations - São Paulo</h6>
+                                            <p class="whitecolor">
+                                                @lang('general.contact_address'): Rua Venceslau Brás, 16 - 13 andar - Sala 134A - São Paulo - SP<br/>
+                                            </p>
+                                            <p class="whitecolor">@lang('general.contact_zipcode'): 01016-000</p>
+                                            <p class="whitecolor">@lang('general.contact_phones'): +(55 11) 3242-6969</p>
+                                            <p class="whitecolor">
+                                                <a href="mailto:comercial@privilege-ts.com.br">E-mail:
+                                                    comercial@privilege-ts.com.br</a>
+                                            </p>
+                                            <hr/>
+                                            <h6 class="whitecolor bottom30">Privilège Translations - Rio de Janeiro</h6>
                                             <p class="whitecolor">
                                                 @lang('general.contact_address'): Avenida Ernani do Amaral Peixoto, 207
                                                 - sala 1301 –
