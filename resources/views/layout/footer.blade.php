@@ -27,6 +27,7 @@
                     Edifício Albert Sabin<br/>
                     Telefones: (+55 21) 2717-0801 / 9-6493-4783
                 </p>
+                <hr />
                 <p class="whitecolor top30">
                     Rua Venceslau Brás, 16 - 13 andar - Sala 134A<br/>
                     São Paulo - SP <br/>
