@@ -15,7 +15,7 @@ return [
     'website_translate' => 'Traduções de Websites',
     'work_with_us' => 'Trabalhe Conosco',
     'contact' => 'Contato',
-    'header_slider_1' => '<h2 class="whitecolor">Transpor idéias, é o melhor termo para TRADUÇÃO.</h2>',
+    'header_slider_1' => '<h2 class="whitecolor">Transpor ideias é o melhor termo para Tradução.</h2>',
     'header_slider_2' => '<h2 class="whitecolor">A qualidade nunca é um acidente,</h2> <h2 class="whitecolor">ela representa a melhor escolha</h2> <h2 class="whitecolor">de muitas alternativas.</h2>',
     'header_slider_3' => '<h2 class="whitecolor">Somos referência, quando o assunto é tradução.</h2>',
     'header_slider_4' => '<h2 class="whitecolor">Nossa empresa nunca para!</h2>  <h2 class="whitecolor">Nossa equipe fica à disposição</h2> <h2 class="whitecolor">24 horas por dia, 7 dias por semana,</h2> <h2 class="whitecolor">sempre pronta para receber seu projeto.</h2>',
@@ -39,7 +39,7 @@ return [
     'home_services_btn' => 'conheça nossos serviços',
 
     //about
-    'header_intro' => 'somos referencia quando o assunto é tradução',
+    'header_intro' => 'somos referência quando o assunto é tradução',
     'about_first_sec' => 'História da empresa',
     'about_first_sec_header' => 'Um novo conceito em tradução',
     'about_first_sec_text' => 'A <strong>PRIVILÈGE TRANSLATIONS</strong>, surgiu com o propósito de intermediar a comunicação de pessoas
@@ -101,7 +101,7 @@ return [
     //work with us
     'work_with_us_first_sec' => 'Faça parte de nosso time!',
     'work_with_us_first_sec_header' => 'Trabalhe conosco',
-    'work_with_us_first_sec_text' => 'Exporadicamente contratamos profissionais para compor nosso time.',
+    'work_with_us_first_sec_text' => 'Esporadicamente contratamos profissionais para compor nosso time.',
     'work_with_us_first_sec_text2' => 'Mande-nos seu curriculo para: <strong><a href="mailto:comercial@privilege-ts.com.br?Subject=Trabalhe%20Com%20a%20Privilège%20Translations" target="_top">comercial@privilege-ts.com.br</a></strong>',
 
     //contact

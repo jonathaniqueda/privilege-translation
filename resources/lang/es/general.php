@@ -17,7 +17,7 @@ return [
     'contact' => 'Contacto',
     'header_slider_1' => '<h2 class="whitecolor">Transponer ideas, es el mejor término para TRADUCCIÓN</h2>',
     'header_slider_2' => '<h2 class="whitecolor">La calidad nunca es un accidente,</h2> <h2 class="whitecolor">representa la mejor opción</h2> <h2 class="whitecolor">de muchas alternativas.</h2>',
-    'header_slider_3' => '<h2 class="whitecolor">Somos una referencia, cuando el asunto es traducción.</h2>',
+    'header_slider_3' => '<h2 class="whitecolor">Somos una referência, cuando el asunto es traducción.</h2>',
     'header_slider_4' => '<h2 class="whitecolor">Nuestra empresa nunca para!</h2>  <h2 class="whitecolor">Nuestro equipo está a su disposición las</h2> <h2 class="whitecolor">24 horas al día, los 7 días de la semana,</h2> <h2 class="whitecolor"> siempre lista para recibir su proyecto.</h2>',
     'contact_us_cta' => 'Solicite un presupuesto',
     'show_our_services' => 'Vea Nuestros Servicios',
@@ -55,7 +55,7 @@ return [
 
     //services
     'service_first_sec' => 'Servicios',
-    'service_first_sec_header' => 'Conozca todo lo que ofreceremos a usted',
+    'service_first_sec_header' => 'Conozca todo lo que le ofrecemos',
     'service_first_sec_text' => 'LA <strong>PRIVILÈGE TRANSLATIONS</strong>, tiene una gama de servicios especializados en la traducción. salida:
                                     <ul>
                                         <li>- Traducción Técnica</li>
