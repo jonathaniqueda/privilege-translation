@@ -99,8 +99,6 @@
 <!--Synx scripts-->
 <script src="{{ asset('js/functions.js') }}"></script>
 
-<!--Google map API-->
-
 @yield('scripts')
 
 </body>
