@@ -46,25 +46,13 @@
                                 <div class="swiper-container">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <h6 class="whitecolor bottom30">Privilège Translations - São Paulo</h6>
+                                            <h6 class="whitecolor bottom30">Privilège Translations</h6>
                                             <p class="whitecolor">
-                                                @lang('general.contact_address'): Rua Venceslau Brás, 16 - 13 andar - Sala 134A - São Paulo - SP<br/>
+                                                @lang('general.contact_address'): Av. Rio Branco, 156 - 7 andar
+                                                - sala 720 –
+                                                Centro - Rio de Janeiro - RJ
                                             </p>
-                                            <p class="whitecolor">@lang('general.contact_zipcode'): 01016-000</p>
-                                            <p class="whitecolor">@lang('general.contact_phones'): +(55 11) 3242-6969</p>
-                                            <p class="whitecolor">
-                                                <a href="mailto:comercial@privilege-ts.com.br">E-mail:
-                                                    comercial@privilege-ts.com.br</a>
-                                            </p>
-                                            <hr/>
-                                            <h6 class="whitecolor bottom30">Privilège Translations - Rio de Janeiro</h6>
-                                            <p class="whitecolor">
-                                                @lang('general.contact_address'): Avenida Ernani do Amaral Peixoto, 207
-                                                - sala 1301 –
-                                                Niterói - Rio de Janeiro - RJ<br/>
-                                                Edifício Albert Sabin
-                                            </p>
-                                            <p class="whitecolor">@lang('general.contact_zipcode'): 24020.085</p>
+                                            <p class="whitecolor">@lang('general.contact_zipcode'): 20040.003</p>
                                             <p class="whitecolor">@lang('general.contact_phones'): +(55 21) 2717-0801 /
                                                 9-6493-4783</p>
                                             <p class="whitecolor">
@@ -72,15 +60,6 @@
                                                     comercial@privilege-ts.com.br</a>
                                             </p>
                                             <hr/>
-                                            <h6 class="whitecolor bottom30">Privilège Translations - Madrid</h6>
-                                            <p class="whitecolor">
-                                                @lang('general.contact_address'): Calle General Martínez Campos - 44,
-                                                28010 Madrid, Espanha
-                                            </p>
-                                            <p class="whitecolor">
-                                                <a href="mailto:comercial@privilege-ts.com.br">E-mail:
-                                                    comercial@privilege-ts.com.br</a>
-                                            </p>
                                             <ul class="social top50">
                                                 <li>
                                                     <a class="whitecolor"
