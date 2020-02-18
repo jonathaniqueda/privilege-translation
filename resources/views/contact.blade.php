@@ -35,7 +35,10 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-7 margin_bottom">
                         <div class="equalheight">
-                            <div id="googleMap"></div>
+                            <iframe 
+                                frameborder="0" style="border:0"
+                                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCGc6lrlL_VU33TlHyTiBVOpiUhQjTEb5s&q=Av+Rio+Branco+156,Centro,Rio de Janeiro,RJ">
+                            </iframe>
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-5 margin_bottom">
