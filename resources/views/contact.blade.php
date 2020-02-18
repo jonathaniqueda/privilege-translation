@@ -59,7 +59,6 @@
                                                 <a href="mailto:comercial@privilege-ts.com.br">E-mail:
                                                     comercial@privilege-ts.com.br</a>
                                             </p>
-                                            <hr/>
                                             <ul class="social top50">
                                                 <li>
                                                     <a class="whitecolor"
