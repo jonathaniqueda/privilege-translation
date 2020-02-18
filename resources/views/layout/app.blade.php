@@ -100,7 +100,7 @@
 <script src="{{ asset('js/functions.js') }}"></script>
 
 <!--Google map API-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyCGc6lrlL_VU33TlHyTiBVOpiUhQjTEb5s"></script>
 <script src="{{ asset('js/map.js') }}"></script>
 
 @yield('scripts')
